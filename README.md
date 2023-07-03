@@ -4,6 +4,6 @@ Dependencies
 
 Pytorch<br>
 
-[Pytorch Geometric](\hrehttps://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)<br>
+[Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)<br>
 
 [Pytorch Temporal Geometric](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/installation.html)<br>
